@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/spring-park/react-for-beginners.git/static/js/main.20808437.js",
-    "index.html": "/spring-park/react-for-beginners.git/index.html",
-    "main.20808437.js.map": "/spring-park/react-for-beginners.git/static/js/main.20808437.js.map"
+    "main.js": "/react-for-beginners.git/static/js/main.20808437.js",
+    "index.html": "/react-for-beginners.git/index.html",
+    "main.20808437.js.map": "/react-for-beginners.git/static/js/main.20808437.js.map"
   },
   "entrypoints": [
     "static/js/main.20808437.js"
